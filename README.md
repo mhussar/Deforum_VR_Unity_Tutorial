@@ -7,3 +7,5 @@ Project files and Asset resources to support the Deforum_VR_Unity_Tutorial that 
 <br><br>2. Download the Unity project file rar and open it with Unity Hub
 <br><br>3. Open this Unity scene: 
 ![Capture](https://user-images.githubusercontent.com/4655568/211135503-265a0265-9a96-4175-b287-710803eb2e50.JPG)
+<br><br>4. Open TouchDesigner and load the TouchDesigner project from this repo and click the play button.
+<br><br>5. Click the play button in Unity and put on your Meta Quest headset (also works with an Oculus Rift).
